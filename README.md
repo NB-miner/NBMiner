@@ -1,4 +1,4 @@
-![](/https://cdn.discordapp.com/attachments/969935789268025344/969954269585371196/unknown.pnglogo.png)
+![image](https://user-images.githubusercontent.com/104682242/166107751-27a11ace-c772-4bfc-8a94-133dc1b1dc3c.png)
 
 
 # NBMiner
