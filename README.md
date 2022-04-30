@@ -4,28 +4,6 @@
 
 GPU Miner for `ETH`, `RVN`, `BEAM`, `CFX`, `ZIL`, `ERGO`, `AE`
 
-## Disclaimer
-
-[nbminer.com](https://nbminer.com) & [NBMiner_github](https://github.com/NebuTech/NBMiner) are the only 2 officially maintained site for publishing information and new releases of NBMiner.
-
-Be aware when you download NBMiner binaries from other sources.
-
-## Contact Us
-
-- Email: nebutech@hotmail.com
-- [Discord](https://discord.gg/ZMejVXj)
-- [BitcoinTalk](https://bitcointalk.org/index.php?topic=5099379)
-
-## Download
-
-| version | Windows                                                      | Linux                                                        |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 40.1    | [NBMiner_40.1_Win.zip](https://dl.nbminer.com/NBMiner_40.1_Win.zip) | [NBMiner_40.1_Linux.tgz](https://dl.nbminer.com/NBMiner_40.1_Linux.tgz) |
-| 39.7    | [NBMiner_39.7_Win.zip](https://dl.nbminer.com/NBMiner_39.7_Win.zip) | [NBMiner_39.7_Linux.tgz](https://dl.nbminer.com/NBMiner_39.7_Linux.tgz) |
-| 39.6    | [NBMiner_39.6_Win.zip](https://dl.nbminer.com/NBMiner_39.6_Win.zip) | [NBMiner_39.6_Linux.tgz](https://dl.nbminer.com/NBMiner_39.6_Linux.tgz) |
-
-- Download older versions from [github releases](https://github.com/NebuTech/NBMiner/releases)
-
 ## Features
 
 * Support Windows & Linux.
