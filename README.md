@@ -1,4 +1,5 @@
-![https://raw.githubusercontent.com/NebuTech/NBMiner/master/logo.png]
+![https://raw.githubusercontent.com/NebuTech/NBMiner/master/logo.png](/logo.png)
+
 
 # NBMiner
 
