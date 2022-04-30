@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/NebuTech/NBMiner/master/logo.png](/logo.png)
+![https://cdn.discordapp.com/attachments/969935789268025344/969954269585371196/unknown.png](/logo.png)
 
 
 # NBMiner
